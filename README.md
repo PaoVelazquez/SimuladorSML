@@ -47,12 +47,8 @@ El archivo principal "SimuladorSML_APVG_v1.c" está dividido en tres módulos pr
 
 Abrir la terminal en la carpeta donde se guardó el proyecto, y ejecutar:
 ``` bash
-# 1. Compilar el archivo ejecutable
+# Compilar el archivo ejecutable
 gcc SimuladorSML_APVG_v1.c
 
-# 2. Ejecutar la aplicación (Windows)
-SimuladorSML_APVG_v1.exe
 
 ```
-## Enlace de consulta
-Para aprender más sobre la Simpletron, puedes visitar [The Markdown](https://www.markdownguide.org/)
