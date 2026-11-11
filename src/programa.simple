@@ -1,0 +1,5 @@
+10 input A
+20 input B
+30 let C = (A + 5) * (B - 2)
+40 print C
+50 end
